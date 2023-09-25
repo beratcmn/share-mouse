@@ -8,3 +8,4 @@
 - [ ] On-Off switch
 - [ ] Standalone app
 - [ ] Customizable mouse buttons
+- [ ] Implement `config.json`
