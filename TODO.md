@@ -6,3 +6,4 @@
 - [ ] Multiple monitor support
 - [ ] On-Off switch
 - [ ] Standalone app
+- [ ] Customizable mouse buttons
