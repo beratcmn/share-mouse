@@ -1,0 +1,9 @@
+{
+  "server_ip": "192.168.1.1",
+  "server_port": 8081,
+  "tickrate": 128,
+  "server_screen_resolution": "1680x1050",
+  "client_screen_resolution": "1920x1080",
+  "use_thread_acceleration": false,
+  "show_terminal": false
+}
